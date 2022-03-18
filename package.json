@@ -1,0 +1,22 @@
+{
+  "name": "@alsoup/utilities",
+  "version": "0.0.1",
+  "description": "TypeScript utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/al-soup/utilities.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "al-soup",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/al-soup/utilities/issues"
+  },
+  "homepage": "https://github.com/al-soup/utilities#readme"
+}

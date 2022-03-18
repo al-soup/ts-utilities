@@ -1,8 +1,3 @@
-# utilities
-TypeScript utility funcitons
+# Utilities
 
-## Planned
-
-- rxjs
-- array
-- time
+TypeScript utility functions
