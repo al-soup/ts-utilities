@@ -1,5 +1,5 @@
 {
-  "name": "ts-utilities",
+  "name": "@al-soup/ts-utilities",
   "version": "0.0.1",
   "description": "TypeScript utility functions",
   "main": "./dist/index.js",
