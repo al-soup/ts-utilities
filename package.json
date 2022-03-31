@@ -1,11 +1,11 @@
 {
   "name": "@al-soup/ts-utilities",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "TypeScript utility functions",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "files": [
-    "./dist/**/*"
+    "/dist"
   ],
   "scripts": {
     "test": "jest",
@@ -21,9 +21,9 @@
   "author": "al-soup <al@soup.one>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/al-soup/utilities/issues"
+    "url": "https://github.com/al-soup/ts-utilities/issues"
   },
-  "homepage": "https://github.com/al-soup/utilities#readme",
+  "homepage": "https://github.com/al-soup/ts-utilities#readme",
   "devDependencies": {
     "@types/jest": "^27.4.1",
     "jest": "^27.5.1",
