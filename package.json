@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "TypeScript utility functions",
   "main": "./dist/index.js",
-  "types": "index.d.ts",
+  "types": "./dist/index.d.ts",
   "files": [
     "./dist/**/*"
   ],

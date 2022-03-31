@@ -2,9 +2,9 @@
   "compilerOptions": {
     "target": "ES5",
     "module": "CommonJS",
-    "declaration": true,
     "outDir": "./dist/",
-    "strict": true
+    "strict": true,
+    "declaration": true, // generate `.d.ts` definitions. TODO: Any separate types need to be copied through a script (https://digitalfortress.tech/tips/link-npm-package-with-its-types/)
   },
   "include": ["src"],
   "exclude": ["node_modules", "**/spec/*"]
