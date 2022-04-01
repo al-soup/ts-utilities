@@ -1,6 +1,6 @@
 {
   "name": "@al-soup/ts-utilities",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "TypeScript utility functions",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -24,6 +24,9 @@
     "url": "https://github.com/al-soup/ts-utilities/issues"
   },
   "homepage": "https://github.com/al-soup/ts-utilities#readme",
+  "dependencies": {
+    "rxjs": "^7.5.5"
+  },
   "devDependencies": {
     "@types/jest": "^27.4.1",
     "jest": "^27.5.1",
